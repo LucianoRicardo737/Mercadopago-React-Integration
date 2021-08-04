@@ -1,0 +1,20 @@
+{
+  "name": "backmercado",
+  "version": "1.0.0",
+  "description": "Backend para ejemplo de integracion simple de mercadopago",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon run src/index.js"
+  },
+  "author": "Luciano Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mercadopago": "^1.5.8",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12"
+  }
+}

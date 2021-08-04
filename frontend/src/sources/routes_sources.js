@@ -1,0 +1,1 @@
+export const payOnCheckOutPro_route = "http://192.168.88.135:3000/checkOutPro/create_preference";
